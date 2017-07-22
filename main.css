@@ -1,3 +1,53 @@
 img {
 	max-width: 400px;
 }
+
+.kobe {
+	background-color: yellow;
+	font-family: 'Bellefair', serif;
+	font-size: 1.2em;
+	line-height: 20px;
+	color: purple;
+	padding: 2.5;
+	border-radius: 30px;
+}
+
+.zion {
+	background-color: navy;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 0.9em;
+	line-height: 25px;
+	color: red;
+	padding: 2.0;
+	border-radius: 40px;
+}
+
+.slim-husky {
+	background-color: lightblue;
+	font-family: 'Oswald', sans-serif;
+	font-size: 1.5em;
+	line-height: 30px;
+	color: gray;
+	padding: 3.0;
+	border-radius: 25px;
+}
+
+.nashville {
+	background-color: green;
+	font-family: 'Artifika', serif;
+	font-size: 1.1em;
+	line-height: 18px;
+	color: tan;
+	padding: 3.5;
+	border-radius: 30px;
+}
+
+.garth {
+	background-color: orange;
+	font-family: 'Lora', serif;
+	font-size: 1.3em;
+	line-height: 22px;
+	color: green;
+	padding: 2.2;
+	border-radius: 35px;
+}
